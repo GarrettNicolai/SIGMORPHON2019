@@ -15,7 +15,7 @@ Garrett Nicolai is a post-doctoral fellow at Johns Hopkins University.  He obtai
 
 <h2> At-large </h2> 
 
-<h3> Ryan Cotterell 
+<h3> Ryan Cotterell </h3>
 
 Ryan is a lecturer (≈assistant professor) of computer science at the University of Cambridge. He specializes in natural language processing, computational linguistics and machine learning, focusing on deep learning and statistical approaches to phonology, morphology, linguistic typology and low-resource languages. He will receive his Ph.D. in Spring 2019 from the computer science department of the Johns Hopkins University, where he was affiliated with the Center for Language and Speech Processing; he was co-advised there by Jason Eisner and David Yarowsky. He has received best paper awards at ACL 2017 and EACL 2017 and two honorable mentions for best paper at EMNLP 2015 and NAACL 2016. Previously, he was a visiting Ph.D. student at the Center for Information and Language Processing at LMU Munich supported by a Fulbright Fellowship and a DAAD Research Grant under the supervision of Hinrich Schütze. His PhD was supported by an NDSEG graduate fellowship, the Fredrick Jelinek Fellowship, and a Facebook Fellowship.
 
