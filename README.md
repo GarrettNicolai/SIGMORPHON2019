@@ -19,7 +19,7 @@ Garrett Nicolai is a post-doctoral fellow at Johns Hopkins University.  He obtai
 
 Ryan is a lecturer (≈assistant professor) of computer science at the University of Cambridge. He specializes in natural language processing, computational linguistics and machine learning, focusing on deep learning and statistical approaches to phonology, morphology, linguistic typology and low-resource languages. He will receive his Ph.D. in Spring 2019 from the computer science department of the Johns Hopkins University, where he was affiliated with the Center for Language and Speech Processing; he was co-advised there by Jason Eisner and David Yarowsky. He has received best paper awards at ACL 2017 and EACL 2017 and two honorable mentions for best paper at EMNLP 2015 and NAACL 2016. Previously, he was a visiting Ph.D. student at the Center for Information and Language Processing at LMU Munich supported by a Fulbright Fellowship and a DAAD Research Grant under the supervision of Hinrich Schütze. His PhD was supported by an NDSEG graduate fellowship, the Fredrick Jelinek Fellowship, and a Facebook Fellowship.
 
-<h4>Statement</h4>: 
+<h4>Statement:</h4>
 I propose to push for two things if reelected. 
 
 <ol> 
@@ -32,7 +32,7 @@ I propose to push for two things if reelected.
 
 Kyle Gorman is assistant professor of linguistics at the Graduate Center at the City University of New York and director of the master's program in computational linguistics. He also works as a software engineer at Google, and previously was an assistant professor at the Center for Spoken Language Understanding at the Oregon Health & Science University in Portland, OR. He holds a PhD from the University of Pennsylvania, where he was advised by Charles Yang. His research interests includes computational approaches to phonology and morphology, and finite-state techniques in particular. He is the creator of the Pynini grammar compilation library.
 
-<h4>Statement</h4>:
+<h4>Statement:</h4>
 I strive to promote three components of the SIGMORPHON enterprise. The first, which is already underway thanks to efforts by current members of the executive commitee, is to help develop high-quality standardized data sets and tasks, and promote their widespread use as benchmarks for sequence modeling. Secondly, I hope to bridge the now-substantial gap between morphophonological analysis as performed by linguists, and the computational modeling of morphology as in the SIG's shared tasks. This is an issue I address in both in-progress and forthcoming work using error analysis. Finally, I hope to use these shared tasks and linguistically-informed error analysis so that this SIG's meetings and tasks can attract linguists interested in the nature of words from other perspectives.
 
 <h3> Mans Hulden </h3>
@@ -40,7 +40,7 @@ I strive to promote three components of the SIGMORPHON enterprise. The first, wh
 Mans Hulden is an assistant professor of Linguistics at the University of Colorado, Boulder. His research interests focus on modeling and learning of phonological and morphological structure.  He has developed a number of finite-state tools, among them foma, which has been used for producing morphological analyzers for several dozen languages. He is secretary of SIGFSM, the ACL special interest group on finite state methods, and serves on its international advisory committee. He was a co-organizer of the SIGMORPHON and CoNLL-SIGMORPHON shared tasks in 2016, 2017, and 2018.
 
 
-<h4>Statement</h4>:
+<h4>Statement:</h4>
 The scope of SIGMORPHON is wide and covers computational approaches of two to three traditional core subfields of linguistics. As Executive Committee member, one of my main goals would be to attempt to conserve the presence of SIGMORPHON-dedicated areas at relevant meetings of the *ACL/EMNLP and to maintain and encourage a healthy and inclusive balance between phonetics, phonology, and morphology in our own meetings and workshops. 
 
 As a relatively small SIG, one of the things we can do to maintain and promote visibility is through strategic co-operation between SIGMORPHON and other SIGs. Earlier efforts such as organizing joint events with, for example, SIGFSM, or joint shared tasks with CoNLL (2017 and 2018) are all examples of ways to maintain an active and healthy SIG, and efforts that I strongly support.
